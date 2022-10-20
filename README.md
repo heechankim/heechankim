@@ -1,7 +1,5 @@
 <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" alt="mustit">
 
-<img src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=DevOps%20Engineer%20&location=Seoul&fill=black">
-
 [![React](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 
 
