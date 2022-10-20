@@ -4,7 +4,7 @@
 
 ![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heechankim&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heechankim&langs_count=8&hide=javascript,html,css)](https://github.com/heechankim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heechankim&langs_count=8&hide=html,css)](https://github.com/heechankim/github-readme-stats)
 
 
 
