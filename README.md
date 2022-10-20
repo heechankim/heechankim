@@ -1,6 +1,13 @@
 ### 안녕하세요.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=heechankim&layout=compact">
+
+
+![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heechankim&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heechankim&langs_count=8&hide=javascript,html)](https://github.com/heechankim/github-readme-stats)
+
+[![Heechan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heechankim)](https://github.com/heechankim/github-readme-stats)
+
 
 
 <!--
