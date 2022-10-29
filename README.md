@@ -5,6 +5,6 @@
 
 
 ```mermaid
-flowchart myskills
+graph myskills
     test[test string]
 ```
