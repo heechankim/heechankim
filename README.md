@@ -6,5 +6,12 @@
 
 ```mermaid
 graph myskills
-    test[test string]
+    test[test string];
+```
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
 ```
