@@ -5,13 +5,6 @@
 
 
 ```mermaid
-graph myskills
+graph TD
     test[test string];
-```
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
 ```
