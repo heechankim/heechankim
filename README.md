@@ -6,5 +6,5 @@
 
 ```mermaid
 flowchart myskills
-  test[test string]
+    test[test string]
 ```
