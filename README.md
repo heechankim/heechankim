@@ -9,8 +9,8 @@
 ### My Dev Routine
 
 - 1일 1커밋
-  - Leetcode 🟠
-  - Go 문법 정리 🟢
+  - [🟠] Leetcode
+  - [🟢] Go 문법 정리
   - Rust 문법 정리 🔴
 - 2일 1커밋
   - HTTP Realworld 학습 내용 정리 🟢
