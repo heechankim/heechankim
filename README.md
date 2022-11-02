@@ -21,3 +21,6 @@
 
 - Notion Blog to Github pages (Hugo) Migration projects
 - Prepare CKS Certification
+
+**My Opensource Contributions**
+- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) ... 1%/100%
