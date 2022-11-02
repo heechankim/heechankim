@@ -9,20 +9,20 @@
 ### My Dev Routine
 
 - 1일 1커밋
-  - [🟠] Leetcode
-  - [🟢] Go 문법 정리
-  - Rust 문법 정리 🔴
+  - Leetcode ... 🟠
+  - Go 문법 정리 ... 🟢
+  - Rust 문법 정리 ... 🔴
 - 2일 1커밋
-  - HTTP Realworld 학습 내용 정리 🟢
+  - HTTP Realworld 학습 내용 정리 ... 🟢
 - 2주 1 Repo
-  - Use Case 별 Terraform AWS code 작성 (4일 기획, 8일 개발, 2일 정리) 🟠
+  - Use Case 별 Terraform AWS code 작성 (4일 기획, 8일 개발, 2일 정리) ... 🟠
 
 ### My Todo list
 
-- Prepare CKS Certification ⎈ 🔴
+- Prepare ⎈ CKS Certification ... 🔴
 - **Knowledge Sharing Project**
-  - Notion Blog to Github pages (Hugo) Migration projects 🟠
-  - Make CS knowledge indexing pages 🟠
+  - Notion Blog to Github pages (Hugo) Migration projects ... 🟠
+  - Make CS knowledge indexing pages ... 🟠
 
 ### My Opensource Contributions
 - [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) ... 1% 🟠
