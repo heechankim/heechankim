@@ -19,5 +19,5 @@
 
 **My Todo list**
 
-- Notion to Github pages (Hugo) Migration projects
+- Notion Blog to Github pages (Hugo) Migration projects
 - Prepare CKS Certification
