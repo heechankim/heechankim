@@ -6,7 +6,7 @@
 [My Knowledge Tree](https://github.com/heechankim/MyKnowledgeTree)
 
 
-**My Dev Routine**
+### My Dev Routine
 
 - 1일 1커밋
   - Leetcode 
@@ -17,10 +17,12 @@
 - 2주 1 Repo
   - Use Case 별 Terraform AWS code 작성 (4일 기획, 8일 개발, 2일 정리)
 
-**My Todo list**
+### My Todo list
 
-- Notion Blog to Github pages (Hugo) Migration projects
-- Prepare CKS Certification
+- Prepare ⎈ CKS Certification
+- **Knowledge Sharing Project**
+  - Notion Blog to Github pages (Hugo) Migration projects
+  - Make CS knowledge indexing pages
 
-**My Opensource Contributions**
-- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) ... 1%/100%
+### My Opensource Contributions
+- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) ... 1%
