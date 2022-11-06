@@ -4,9 +4,7 @@
 ![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heechankim&show_icons=true&theme=transparent)
 
 
-### My Knowledge Tree
-
-[Link](https://github.com/heechankim/MyKnowledgeTree)
+### My Knowledge Tree - [Link](https://github.com/heechankim/MyKnowledgeTree)
 
 
 ### My Dev Routine
