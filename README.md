@@ -18,8 +18,12 @@
 - 2주 1 Repo
   - Use Case 별 Terraform AWS code 작성 (4일 기획, 8일 개발, 2일 정리) - 🟠
 
+### My Study List
 
-### My Todo list
+- 쿠버네티스 실전 프로젝트 23% - 🟢
+- RealWorld HTTP 🟢
+
+### My Todo List
 
 - Prepare ⎈ CKS Certification - 🔴
 - **Knowledge Sharing Project**
