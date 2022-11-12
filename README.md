@@ -7,9 +7,8 @@
 ### My Knowledge Tree - [Link](https://github.com/heechankim/MyKnowledgeTree)
 
 
-🟢 - In Progress
-🟠 - Pending
-🔴 - In Future
+🟢 - In Progress | 🟠 - Pending | 🔴 - In Future
+
 ### My Dev Routine
 
 - Commit
