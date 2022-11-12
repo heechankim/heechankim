@@ -30,7 +30,7 @@
 ### My Todo List
 
 - Prepare ⎈ CKS Certification - 🔴
-- **Knowledge Sharing Project**
+- **Knowledge Sharing**
   - Notion Blog to Github pages (Hugo) Migration projects - 🟠
   - Make CS knowledge indexing pages - 🟠
 
