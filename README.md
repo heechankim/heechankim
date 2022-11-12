@@ -19,7 +19,11 @@
   - "RealWorld HTTP" Study - 🟢
 
 - Long Term Project
-  - Write a Terraform code for each Common architecture cases (Planing in 4 Days, Developing in 8 Days, Documenting in 2 Days) - 🔴
+  - Write a Terraform code for each Common architecture cases - 🔴
+    Planing in 4 Days
+    Developing in 8 Days
+    Documenting in 2 Days
+    
   - EKS Project - 🔴
 
 ### My Study List
