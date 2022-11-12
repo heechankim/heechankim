@@ -20,9 +20,9 @@
 
 - Long Term Project
   - Write a Terraform code for each Common architecture cases - 🔴
-    Planing in 4 Days
-    Developing in 8 Days
-    Documenting in 2 Days
+    <br>Planing in 4 Days
+    <br>Developing in 8 Days
+    <br>Documenting in 2 Days
     
   - EKS Project - 🔴
 
