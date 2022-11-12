@@ -7,16 +7,20 @@
 ### My Knowledge Tree - [Link](https://github.com/heechankim/MyKnowledgeTree)
 
 
+🟢 - In Progress
+🟠 - Pending
+🔴 - In Future
 ### My Dev Routine
 
-- 1일 1커밋
+- Commit
   - Leetcode - 🟠
-  - Go 문법 정리 - 🟢
-  - Rust 문법 정리 - 🔴
-- 2일 1커밋
-  - RealWorld HTTP 학습 내용 정리 - 🟢
-- 2주 1 Repo
-  - Architecture Use Case 별 Terraform AWS code 작성 (4일 기획, 8일 개발, 2일 정리) - 🔴
+  - Go Language Study - 🟢
+  - Rust Language Study - 🔴
+  - "RealWorld HTTP" Study - 🟢
+
+- Long Term Project
+  - Write a Terraform code for each Common architecture cases (Planing in 4 Days, Developing in 8 Days, Documenting in 2 Days) - 🔴
+  - EKS Project - 🔴
 
 ### My Study List
 
