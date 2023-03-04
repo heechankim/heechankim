@@ -26,6 +26,8 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 
 Currently employed, will update later.
 
+
+
 <table style="border-collapse:collapse;border-spacing:0">
 <tr>
     <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
