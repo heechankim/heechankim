@@ -22,6 +22,11 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
         <strong>LG Uplus</strong> <i>2023.02 - Present (Magok, Seoul)</i> <br><br>Cloud Platform Development Team in Cloud Technology Lab <br>
     </td>
 </tr>
+</table>
+
+Currently employed, will update later.
+
+<table style="border-collapse:collapse;border-spacing:0">
 <tr>
     <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
         <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="200px">
@@ -31,12 +36,6 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
     </td>
 </tr>
 </table>
-
-### LG Uplus
-
-Currently employed, will update later.
-
-### MUST'IT
 
 While working as a DevOps Engineer at Mustit, I recognized the challenges that our internal developers faced with file sharing and transfer processes. To address these challenges, I took the initiative to develop an in-house file transfer platform that not only improved efficiency and productivity but also streamlined collaboration across different teams. This platform enabled the development team to share files securely and seamlessly, ultimately contributing to the success of our projects and the overall growth of the organization.
 
