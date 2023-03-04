@@ -40,4 +40,4 @@
 
 
 ### My Contributions
-- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) 2% - 🟢
+- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) 4% - 🟢
