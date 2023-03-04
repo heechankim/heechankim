@@ -13,7 +13,7 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 
 ## Career Experience
 
-<table style="border-collapse:collapse;border-spacing:0;width:100%">
+<table style="border-collapse:collapse;border-spacing:0" width="100%">
 <tr>
     <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="200px">
