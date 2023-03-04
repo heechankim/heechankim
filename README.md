@@ -11,10 +11,29 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 
 ## Career Experience
 
-| | |
-| --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px"> | <span text-align="start"> Cloud Platform Development Team At Cloud Technology Lab <br> 2023.02 - Present <br> Magok, Seoul </span>|
-| <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px"> | <span text-align="start"> Site Operation Team At Technology Division <br> 2022.08 - 2023.01 <br> Apgujeong, Seoul </span> |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;word-break:normal;}
+.tg th{border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;word-break:normal;}
+.tg .tg-2fdn{border-color:#9b9b9b;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px"></th>
+    <th class="tg-2fdn"><span style="font-weight:bold">Cloud Platform Development Team</span> At Cloud Technology Lab <br><span style="font-style:italic">2023.02 - Present</span><br>Magok, Seoul</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px"></td>
+    <td class="tg-2fdn"><span style="font-weight:bold">Site Operation Team</span> At Technology Division<br><span style="font-style:italic">2022.08 - 2023.01</span><br>Apgujeong, Seoul</td>
+  </tr>
+</tbody>
+</table>
 
 ### Company A
 
