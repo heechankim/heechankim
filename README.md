@@ -11,7 +11,22 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 
 ## Career Experience
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"></th><th style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Cloud Platform Development Team</span> At Cloud Technology Lab <br><span style="font-style:italic">2023.02 - Present</span><br>Magok, Seoul</th></tr></thead><tbody><tr><td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Site Operation Team</span> At Technology Division<br><span style="font-style:italic">2022.08 - 2023.01</span><br>Apgujeong, Seoul</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<tbody>
+<tr>
+<td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px">
+</td>
+<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Cloud Platform Development Team</span> At Cloud Technology Lab <br><span style="font-style:italic">2023.02 - Present</span><br>Magok, Seoul</td>
+
+<td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
+</td>
+<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Site Operation Team</span> At Technology Division<br><span style="font-style:italic">2022.08 - 2023.01</span><br>Apgujeong, Seoul</td>
+</tr>
+</tbody>
+</table>
+
 
 ### Company A
 
