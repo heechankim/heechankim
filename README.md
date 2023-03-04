@@ -23,11 +23,10 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
 <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
 </td>
-<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Site Operation Team</span> At Technology Division<br><span style="font-style:italic">2022.08 - 2023.01</span><br>Apgujeong, Seoul</td>
+<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Site Operation Team</span> At Technology Division<br><span style="font-style:italic">2022.08 - 2023.01</span><br>Apgujeong, Seoul</td>
 </tr>
 </tbody>
 </table>
-
 
 ### Company A
 
