@@ -14,9 +14,9 @@ Hi there! My name is Sarah Lee and I'm a front-end developer with a passion for 
 
 ## Career Experience
 
-| ![LGUPLUS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png) | **Front-End Developer at Company A**<br>2019 - Present<br>Los Angeles, CA |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px"> | **Front-End Developer at Company A**<br>2019 - Present<br>Los Angeles, CA |
 | --- | --- |
-| ![MUST'IT](https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg) | **Web Developer at Company B**<br>2016 - 2019<br>New York, NY |
+| <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px"> | **Web Developer at Company B**<br>2016 - 2019<br>New York, NY |
 
 ### Company A
 
