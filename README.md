@@ -11,8 +11,8 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 
 ## Career Experience
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px"> | <span text-align="start"> Cloud Platform Development Team At Cloud Technology Lab <br> 2023.02 - Present <br> Magok, Seoul </span>|
 | --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px"> | <span text-align="start"> Cloud Platform Development Team At Cloud Technology Lab <br> 2023.02 - Present <br> Magok, Seoul </span>|
 | <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px"> | <span text-align="start"> Site Operation Team At Technology Division <br> 2022.08 - 2023.01 <br> Apgujeong, Seoul </span> |
 
 ### Company A
