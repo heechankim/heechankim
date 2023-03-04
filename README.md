@@ -1,16 +1,13 @@
-<!-- <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" alt="mustit"> -->
-
 # My Personal Profile
-
-Hi there! My name is Sarah Lee and I'm a front-end developer with a passion for creating engaging and intuitive user interfaces. In my free time, I enjoy hiking, yoga, and painting.
+As a junior engineer, I have a deep passion for all things Linux. I love exploring the command-line interface and discovering new ways to streamline workflows and improve productivity. In addition to my technical skills, I'm also interested in developing soft skills such as service ownership, customer-centric mindset, and knowledge sharing, which I believe are essential for success in any team environment. If you're interested in connecting and discussing technical or soft skill development topics, feel free to reach out to me on LinkedIn or Email.
 
 ## Skills
 
-- HTML/CSS
-- JavaScript
-- React
-- Vue.js
-- Adobe Creative Suite
+- AWS
+- Kubernetes (CKA)
+- React.js, Node.js
+- Bash Script
+- Python
 
 ## Career Experience
 
@@ -36,25 +33,13 @@ During my time at Company B, I worked on developing and maintaining the company'
 - Optimizing website performance using caching and other techniques
 - Conducting user testing and analyzing website analytics
 
-## Education
-
-- Bachelor's degree in Computer Science from University of California, Berkeley
-
 ## Contact
 
-Feel free to reach out to me at sarahlee@email.com or on LinkedIn at linkedin.com/in/sarahleedev.
+Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedin.com/in/kimheechan](https://www.linkedin.com/in/kimheechan/).
 
 Thanks for checking out my profile!
 
 
-![Heechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heechankim&show_icons=true&theme=transparent)
-
-
-### My Knowledge Tree - [Link](https://github.com/heechankim/MyKnowledgeTree)
-
-
-
-🟢 - In Progress | 🟠 - Pending | 🔴 - In Future
 
 ### My Dev Routine
 
