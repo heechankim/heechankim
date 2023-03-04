@@ -21,7 +21,7 @@ Currently employed, will update later.
 
 <br><br><br>
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px" style="display: inline-block;"> <i>2022.08 - 2023.01 (Mustit Building, Seoul)</i>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px" style="display: inline-block;"> <i>2022.08 - 2023.01 ([Mustit Building](https://goo.gl/maps/BPs1oDaJm6avogk86), Seoul)</i>
 <br>
 **Site Operation Engineering Team** in Technology Division<br><br>
 
