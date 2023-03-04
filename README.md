@@ -34,7 +34,7 @@ While working as a DevOps Engineer at Mustit, I recognized the challenges that o
 - Maintaining AWS cloud infrastructure of mustit e-commerce website.
   - Resolved EBS binding issue on EC2 instances hosting the deployed cache solution.
 
-- Elastic Kubernetes Cluster Migration.
+- Kubernetes Cluster Migration.
   - Prevented resource loss during cluster migration through automation of bash script
 
 ## These days
