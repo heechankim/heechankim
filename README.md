@@ -13,16 +13,20 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 
 <table style="border-collapse:collapse;border-spacing:0">
 <tr>
-<td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px">
-</td>
-<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">**Cloud Platform Development Team** At Cloud Technology Lab <br>*2023.02 - Present*<br>Magok, Seoul</td>
+    <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px">
+    </td>
+    <td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+        <strong>Cloud Platform Development Team</strong> At Cloud Technology Lab <br><i>2023.02 - Present</i><br>Magok, Seoul
+    </td>
 </tr>
 <tr>
-<td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
-<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
-</td>
-<td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">**Site Operation Team** At Technology Division<br>*2022.08 - 2023.01*<br>Apgujeong, Seoul</td>
+    <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+        <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
+    </td>
+    <td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
+        <strong>Site Operation Team</strong> At Technology Division<br><i>2022.08 - 2023.01</i><br>Apgujeong, Seoul
+    </td>
 </tr>
 </table>
 
