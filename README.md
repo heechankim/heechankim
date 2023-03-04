@@ -40,6 +40,14 @@ Currently employed, will update later.
 
 While working as a DevOps Engineer at Mustit, I recognized the challenges that our internal developers faced with file sharing and transfer processes. To address these challenges, I took the initiative to develop an in-house file transfer platform that not only improved efficiency and productivity but also streamlined collaboration across different teams. This platform enabled the development team to share files securely and seamlessly, ultimately contributing to the success of our projects and the overall growth of the organization.
 
+- Developed an in-house file transfer platform for an isolated network environment using network integration.
+
+- Maintaining AWS cloud infrastructure of mustit e-commerce website.
+  - Resolved EBS binding issue on EC2 instances hosting the deployed cache solution.
+
+- Elastic Kubernetes Cluster Migration.
+  - Prevented resource loss during cluster migration through automation of bash script
+
 ## These days
 - Studying Next.js
 - Studying Go Language
