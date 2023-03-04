@@ -1,5 +1,7 @@
-# My Personal Profile
-As a junior engineer, I have a deep passion for all things Linux. I love exploring the command-line interface and discovering new ways to streamline workflows and improve productivity. In addition to my technical skills, I'm also interested in developing soft skills such as service ownership, customer-centric mindset, and knowledge sharing, which I believe are essential for success in any team environment. If you're interested in connecting and discussing technical or soft skill development topics, feel free to reach out to me on LinkedIn or Email.
+# Heechan Kim
+
+As a junior engineer, I have a deep passion for all things Linux. I love exploring the command-line interface and discovering new ways to streamline workflows and improve productivity. In addition to my technical skills, I'm also interested in developing soft skills such as service ownership, customer-centric mindset, and knowledge sharing, which I believe are essential for success in any team environment. If you're interested in connecting and discussing technical or soft skill development topics, 
+Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedin.com/in/kimheechan](https://www.linkedin.com/in/kimheechan/).
 
 ## Skills
 
@@ -32,43 +34,18 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 
 ### LG Uplus
 
+Currently employed, will update later.
+
 ### MUST'IT
 
 While working as a DevOps Engineer at Mustit, I recognized the challenges that our internal developers faced with file sharing and transfer processes. To address these challenges, I took the initiative to develop an in-house file transfer platform that not only improved efficiency and productivity but also streamlined collaboration across different teams. This platform enabled the development team to share files securely and seamlessly, ultimately contributing to the success of our projects and the overall growth of the organization.
 
-## Contact
+## These days
+- Studying Next.js
+- Studying Go Language
+- Preparing Terraform Associate
+- Preparing CKS
+- Trying to solve one leetcode problem a day.
 
-Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedin.com/in/kimheechan](https://www.linkedin.com/in/kimheechan/).
-
-Thanks for checking out my profile!
-
-
-
-### My Dev Routine
-
-- Commit
-  - Leetcode - 🟠
-  - Go Language Study - 🟢
-  - Rust Language Study - 🔴
-  - "RealWorld HTTP" Study - 🟢
-
-- Long Term Project
-  - Write a Terraform code for each Common architecture cases - 🔴
-    <br>Plan for 4 Days
-    <br>Develop for 8 Days
-    <br>Document for 2 Days
-    
-  - EKS Project - 🔴
-
-### My Study List
-
-- 쿠버네티스 실전 프로젝트 23% - 🟢
-- RealWorld HTTP 🟢
-
-### My Todo List
-
-- Prepare ⎈ CKS Certification - 🔴
-
-
-### My Contributions
-- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps) 4% - 🟢
+## Contributions
+- [90DaysOfDevOps](https://github.com/heechankim/90DaysOfDevOps)
