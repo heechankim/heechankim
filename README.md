@@ -13,16 +13,16 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 
 ## Career Experience
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px">
-<i>2023.02 - Present (Magok, Seoul)</i>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px" style="display: inline-block;">
+<i style="display: inline-block;">2023.02 - Present (Magok, Seoul)</i>
 Cloud Platform Development Team in Cloud Technology Lab <br><br><br>
 
 Currently employed, will update later.
 
 <br><br>
 
-<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
-<i>2022.08 - 2023.01 (Apgujeong, Seoul)</i>
+<img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px" style="display: inline-block;">
+<i style="display: inline-block;">2022.08 - 2023.01 (Apgujeong, Seoul)</i>
 Site Operation Team in Technology Division<br><br><br>
 
 
