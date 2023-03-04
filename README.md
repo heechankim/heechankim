@@ -14,7 +14,7 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 <table style="border-collapse:collapse;border-spacing:0">
 <tr>
     <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="100px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/320px-LG_U%2B_CI.svg.png" width="300px">
     </td>
     <td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
         <strong>LG Uplus</strong> <i>2023.02 - Present (Magok, Seoul)</i> <br>Cloud Platform Development Team in Cloud Technology Lab <br>
@@ -22,7 +22,7 @@ As a junior engineer, I have a deep passion for all things Linux. I love explori
 </tr>
 <tr>
     <td style="border-bottom-width:1px;border-color:black;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
-        <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="100px">
+        <img src="https://s3.ap-northeast-2.amazonaws.com/mustit-ux/img/front/bi/main_logo.svg" width="300px">
     </td>
     <td style="border-bottom-width:1px;border-color:#9b9b9b;border-style:solid;border-top-width:1px;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:20px 20px;text-align:left;vertical-align:top;word-break:normal">
         <strong>MUST'IT</strong> <i>2022.08 - 2023.01 (Apgujeong, Seoul)</i> <br>Site Operation Team in Technology Division<br>
