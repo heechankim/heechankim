@@ -5,11 +5,10 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 
 ## Skills
 
-- AWS
-- Kubernetes (CKA)
-- React.js, Node.js
-- Bash Script
-- Python
+- Programming (Bash Script, Python, React.js, Node.js, C#)
+- IaC (Terraform)
+- Kubernetes (CKA), Docker
+- Cloud Service (AWS)
 
 ## Career Experience
 
