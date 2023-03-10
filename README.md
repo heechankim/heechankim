@@ -16,7 +16,7 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 <br>
 **Cloud Platform Development Team** in Cloud Technology Lab <br><br>
 
-Currently employed, will update later.
+Will update later.
 
 <br><br><br>
 
