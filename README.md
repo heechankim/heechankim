@@ -29,6 +29,7 @@ While working as a DevOps Engineer at Mustit, I recognized the challenges that o
 
 - Developed an in-house file transfer platform for an isolated network environment using network integration.
   - Improved the speed of encrypting and compressing large files into ZIP format by approximately 80% using optimized logic.
+  - Designing an outer architecture leveraging AWS infrastructure and strengthening the security of WAS (Web Application Server) using Docker networking and nginx.
 
 - Maintaining AWS cloud infrastructure of mustit e-commerce website.
   - Resolved EBS binding issue on EC2 instances hosting the deployed cache solution.
