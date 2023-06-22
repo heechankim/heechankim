@@ -42,9 +42,9 @@ While working as a DevOps Engineer at Mustit, I recognized the challenges that o
   - Prevented resource loss during cluster migration through automation of bash script
 
 ## These days
-- Studying Next.js
+- Studying Linux Kernel Source
+- Studying ARMv8 Architecture
 - Studying Go Language
-- Preparing Terraform Associate
 - Preparing CKS
 - Trying to solve one leetcode problem a day.
 
