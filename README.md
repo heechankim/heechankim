@@ -6,6 +6,7 @@ Feel free to reach out to me at heechan.dev@gmail.com or on LinkedIn at [linkedi
 ## Skills
 
 - Programming (Bash Script, Python, React.js, Node.js, C#)
+    - Frontend : React.js, Next.js
 - IaC (Terraform)
 - Kubernetes (CKA), Docker
 - Cloud Service (AWS)
